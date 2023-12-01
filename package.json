@@ -1,0 +1,16 @@
+{
+  "name": "aoc-2023",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Advent of Code 2023",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Matthew Holtom",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/holtomm/AOC-2023"
+  }
+}
